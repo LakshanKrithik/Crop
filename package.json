@@ -1,0 +1,14 @@
+{
+  "name": "farm-advisor-zero",
+  "version": "1.0.0",
+  "description": "AI-powered farm advisory system with vision and LLM capabilities",
+  "main": "frontend/app.js",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . --listen 3000"
+  },
+  "keywords": ["farm", "advisor", "vision", "llm", "agriculture"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}

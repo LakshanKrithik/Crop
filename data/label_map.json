@@ -1,0 +1,34 @@
+{
+  "labels": {
+    "0": "apple_scab",
+    "1": "apple_black_rot",
+    "2": "apple_cedar_rust",
+    "3": "apple_healthy",
+    "4": "corn_common_rust",
+    "5": "corn_northern_leaf_blight",
+    "6": "corn_healthy",
+    "7": "grape_black_rot",
+    "8": "grape_healthy",
+    "9": "potato_early_blight",
+    "10": "potato_late_blight",
+    "11": "potato_healthy",
+    "12": "tomato_bacterial_spot",
+    "13": "tomato_early_blight",
+    "14": "tomato_late_blight",
+    "15": "tomato_leaf_mold",
+    "16": "tomato_healthy",
+    "17": "rice_blast",
+    "18": "rice_healthy",
+    "19": "wheat_rust",
+    "20": "wheat_healthy",
+    "21": "healthy"
+  },
+  "crops": ["Apple", "Corn", "Grape", "Potato", "Tomato", "Rice", "Wheat"],
+  "severity_levels": {
+    "none": { "value": 0, "label": "Healthy", "color": "#22c55e" },
+    "low": { "value": 1, "label": "Low Risk", "color": "#84cc16" },
+    "medium": { "value": 2, "label": "Moderate", "color": "#eab308" },
+    "high": { "value": 3, "label": "High Risk", "color": "#f97316" },
+    "critical": { "value": 4, "label": "Critical", "color": "#ef4444" }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "diseases": [
+    {
+      "id": "apple_scab",
+      "name": "Apple Scab",
+      "crop": "Apple",
+      "symptoms": "Dark, olive-green to black velvety spots on leaves and fruit. Leaves may curl, distort, and drop early.",
+      "cause": "Fungus Venturia inaequalis",
+      "severity": "medium",
+      "treatment": "Apply fungicide sprays (captan, myclobutanil) starting at green tip stage. Remove fallen leaves in autumn.",
+      "prevention": "Plant resistant varieties. Ensure good air circulation by proper pruning."
+    },
+    {
+      "id": "apple_black_rot",
+      "name": "Apple Black Rot",
+      "crop": "Apple",
+      "symptoms": "Frogeye leaf spots with purple margins. Black, rotting lesions on fruit that enlarge concentrically.",
+      "cause": "Fungus Diplodia seriata",
+      "severity": "high",
+      "treatment": "Prune out dead wood and mummified fruits. Apply captan or thiophanate-methyl fungicides.",
+      "prevention": "Remove all sources of inoculum. Maintain tree vigor with proper fertilization."
+    },
+    {
+      "id": "apple_cedar_rust",
+      "name": "Cedar Apple Rust",
+      "crop": "Apple",
+      "symptoms": "Bright orange-yellow spots on upper leaf surfaces. Tube-like structures on leaf undersides.",
+      "cause": "Fungus Gymnosporangium juniperi-virginianae",
+      "severity": "medium",
+      "treatment": "Apply fungicides (myclobutanil, triadimefon) at pink bud stage through petal fall.",
+      "prevention": "Remove nearby cedar and juniper trees. Plant resistant apple varieties."
+    },
+    {
+      "id": "tomato_early_blight",
+      "name": "Tomato Early Blight",
+      "crop": "Tomato",
+      "symptoms": "Dark brown spots with concentric rings (target-like pattern) on lower leaves first, progressing upward.",
+      "cause": "Fungus Alternaria solani",
+      "severity": "high",
+      "treatment": "Apply chlorothalonil or copper-based fungicides. Remove and destroy infected leaves.",
+      "prevention": "Rotate crops. Mulch around plants. Avoid overhead watering. Stake plants for airflow."
+    },
+    {
+      "id": "tomato_late_blight",
+      "name": "Tomato Late Blight",
+      "crop": "Tomato",
+      "symptoms": "Large, irregularly shaped, water-soaked lesions on leaves. White fuzzy growth on leaf undersides in humid conditions.",
+      "cause": "Oomycete Phytophthora infestans",
+      "severity": "critical",
+      "treatment": "Apply metalaxyl or mancozeb immediately. Remove and destroy all infected plants.",
+      "prevention": "Use certified disease-free transplants. Ensure good drainage. Avoid overhead irrigation."
+    },
+    {
+      "id": "tomato_leaf_mold",
+      "name": "Tomato Leaf Mold",
+      "crop": "Tomato",
+      "symptoms": "Pale green to yellow spots on upper leaf surfaces. Olive-green to grayish-purple fuzzy mold on undersides.",
+      "cause": "Fungus Passalora fulva",
+      "severity": "medium",
+      "treatment": "Improve greenhouse ventilation. Apply chlorothalonil or copper fungicides.",
+      "prevention": "Reduce humidity. Space plants adequately. Use resistant varieties."
+    },
+    {
+      "id": "tomato_bacterial_spot",
+      "name": "Tomato Bacterial Spot",
+      "crop": "Tomato",
+      "symptoms": "Small, dark, water-soaked spots on leaves, stems, and fruit. Spots may have yellow halos.",
+      "cause": "Bacteria Xanthomonas campestris pv. vesicatoria",
+      "severity": "high",
+      "treatment": "Apply copper-based bactericides. Remove severely infected plants.",
+      "prevention": "Use disease-free seeds and transplants. Avoid working with wet plants. Rotate crops."
+    },
+    {
+      "id": "corn_common_rust",
+      "name": "Corn Common Rust",
+      "crop": "Corn",
+      "symptoms": "Small, circular to elongate, cinnamon-brown pustules on both leaf surfaces.",
+      "cause": "Fungus Puccinia sorghi",
+      "severity": "medium",
+      "treatment": "Apply foliar fungicides (triazoles, strobilurins) if detected before tasseling.",
+      "prevention": "Plant resistant hybrids. Early planting to avoid peak spore periods."
+    },
+    {
+      "id": "corn_northern_leaf_blight",
+      "name": "Corn Northern Leaf Blight",
+      "crop": "Corn",
+      "symptoms": "Long, elliptical, grayish-green to tan lesions (1-6 inches) on leaves.",
+      "cause": "Fungus Exserohilum turcicum",
+      "severity": "high",
+      "treatment": "Apply foliar fungicides at early signs. Use strobilurin or triazole fungicides.",
+      "prevention": "Plant resistant hybrids. Rotate away from corn for at least one year. Till residues."
+    },
+    {
+      "id": "grape_black_rot",
+      "name": "Grape Black Rot",
+      "crop": "Grape",
+      "symptoms": "Reddish-brown circular lesions on leaves. Fruit turns brown, shrivels into hard black mummies.",
+      "cause": "Fungus Guignardia bidwellii",
+      "severity": "critical",
+      "treatment": "Apply myclobutanil or mancozeb from bud break through veraison.",
+      "prevention": "Remove mummified berries and infected canes. Ensure good canopy management."
+    },
+    {
+      "id": "potato_early_blight",
+      "name": "Potato Early Blight",
+      "crop": "Potato",
+      "symptoms": "Dark brown, concentric ringed spots on older leaves. Tubers may show dark, sunken lesions.",
+      "cause": "Fungus Alternaria solani",
+      "severity": "medium",
+      "treatment": "Apply chlorothalonil or mancozeb fungicides on a 7-10 day schedule.",
+      "prevention": "Rotate crops for 2-3 years. Avoid overhead irrigation. Maintain adequate fertility."
+    },
+    {
+      "id": "potato_late_blight",
+      "name": "Potato Late Blight",
+      "crop": "Potato",
+      "symptoms": "Water-soaked, pale green lesions that rapidly enlarge to dark brown/black. White mold on undersides.",
+      "cause": "Oomycete Phytophthora infestans",
+      "severity": "critical",
+      "treatment": "Apply metalaxyl + mancozeb or dimethomorph immediately. Destroy infected plants.",
+      "prevention": "Plant certified disease-free seed potatoes. Destroy volunteer plants and cull piles."
+    },
+    {
+      "id": "rice_blast",
+      "name": "Rice Blast",
+      "crop": "Rice",
+      "symptoms": "Diamond-shaped lesions with gray centers and brown borders on leaves. Neck rot at panicle base.",
+      "cause": "Fungus Magnaporthe oryzae",
+      "severity": "critical",
+      "treatment": "Apply tricyclazole or isoprothiolane fungicides. Drain fields temporarily.",
+      "prevention": "Use resistant varieties. Avoid excessive nitrogen fertilization. Maintain balanced nutrition."
+    },
+    {
+      "id": "wheat_rust",
+      "name": "Wheat Stripe Rust",
+      "crop": "Wheat",
+      "symptoms": "Yellow-orange pustules arranged in stripes along leaf veins. Severe infection causes leaf desiccation.",
+      "cause": "Fungus Puccinia striiformis",
+      "severity": "high",
+      "treatment": "Apply triazole or strobilurin fungicides at first sign of infection.",
+      "prevention": "Plant resistant varieties. Eliminate volunteer wheat. Adjust sowing dates."
+    },
+    {
+      "id": "healthy",
+      "name": "Healthy Plant",
+      "crop": "General",
+      "symptoms": "No visible symptoms of disease. Plant appears vigorous with normal coloration.",
+      "cause": "N/A",
+      "severity": "none",
+      "treatment": "No treatment required. Continue regular maintenance.",
+      "prevention": "Maintain proper watering, fertilization, and pest management schedules."
+    }
+  ]
+}
